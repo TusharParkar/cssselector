@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container {
+    height: 400px;
+    width: 33%;
+    display: inline-block;
+}
+legend{
+    font-size: 20px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornflowerblue;
+
+}
+fieldset{
+    border: 8px solid yellow;
+}
+label{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    border: 2px solid cyan;
+    border-radius: 3px;
+    font-size: 15px;
+    margin: 5px 10px;
+}
+.container1form{
+margin-top: 50px;
+} 
+#submit{
+    background-color: cornflowerblue;
+    font-size: 25px;
+    border-radius: 8px;
+}
+button{
+background-color: coral;
+font-size: 20px;
+border: 2px solid cyan;
+border-radius: 8px;
+}
